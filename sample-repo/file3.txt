@@ -1,1 +1,1 @@
-Third file to commit
+Third file to commit with changes
